@@ -1,1 +1,1 @@
-# Nodejs-Express-MySql-Authentication
+# Node-Express-MySql-Authentication
